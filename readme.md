@@ -1,6 +1,6 @@
 ## Hacker News: Mark All Read
 
-This is the source code for [my fork of the Chrome extension Hacker News: Mark All Read](https://chrome.google.com/webstore/detail/hacker-news-mark-all-read/fghfahcbhpdeeaaofcefaoodmfejieok). The original extension was developed by Daniele Mazzini in 2012, but the code hasn't been updated in several years, so I cloned the code to make it work with the current version of HN site, and upgraded to Manifest v3. All the credit goes to the [original author](https://github.com/danmaz74/HNMarkAllRead).
+This is the source code for [my fork of the Chrome extension Hacker News: Mark All Read](https://chrome.google.com/webstore/detail/hacker-news-mark-all-read/fghfahcbhpdeeaaofcefaoodmfejieok). The [original extension](https://github.com/danmaz74/HNMarkAllRead) was developed by [Daniele Mazzini](https://github.com/danmaz74/) in 2012, but the code hasn't been updated in several years, so I forked the code to make it work with the current version of HN site, and upgraded to Manifest v3. All the credit goes to the original author.
 
 **Changelog:**
 - 2023-02 - Upgraded Manifest from v2 to v3
